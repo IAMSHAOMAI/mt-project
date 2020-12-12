@@ -1,0 +1,13 @@
+server:
+  port: 8772
+  servlet:
+    context-path: /demo02
+
+spring:
+  application:
+    name: msy-demo02
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
