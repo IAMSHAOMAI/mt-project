@@ -14,7 +14,7 @@ zuul:
   routes:
     demo01:
       path: /demo01/** # 路径
-      serviceId: msy-demo01111 # 服务名
+      serviceId: msy-demo011112 # 服务名
     demo02:
       path: /demo02/** # 路径
       serviceId: msy-demo02
