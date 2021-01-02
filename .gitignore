@@ -4,4 +4,7 @@ out
 gen
 .svn
 *.class
-.gitignore
+.settings
+.classpath
+.project
+classes
